@@ -1,0 +1,14 @@
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\bin\Debug\net9.0\DependencyInjection.exe
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\bin\Debug\net9.0\DependencyInjection.deps.json
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\bin\Debug\net9.0\DependencyInjection.runtimeconfig.json
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\bin\Debug\net9.0\DependencyInjection.dll
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\bin\Debug\net9.0\DependencyInjection.pdb
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\obj\Debug\net9.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\obj\Debug\net9.0\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\obj\Debug\net9.0\DependencyInjection.AssemblyInfo.cs
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\obj\Debug\net9.0\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\obj\Debug\net9.0\DependencyInjection.dll
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\obj\Debug\net9.0\refint\DependencyInjection.dll
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\obj\Debug\net9.0\DependencyInjection.pdb
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\obj\Debug\net9.0\DependencyInjection.genruntimeconfig.cache
+C:\Users\sahad\Desktop\DependencyInjection\DependencyInjection\obj\Debug\net9.0\ref\DependencyInjection.dll
